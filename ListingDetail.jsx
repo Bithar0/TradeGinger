@@ -1,0 +1,1 @@
+export default function ListingDetail(){return <main className='max-w-[1100px] mx-auto p-6'>Listing</main>}

@@ -1,0 +1,1 @@
+export default function ProfilePage(){return <main className='max-w-[1100px] mx-auto p-6'>Profile</main>}

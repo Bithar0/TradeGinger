@@ -1,0 +1,1 @@
+export default function MapSearch(){return <main className='max-w-[1100px] mx-auto p-6'>Map Search</main>}

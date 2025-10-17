@@ -1,0 +1,1 @@
+export default function HomePage(){return <main className='max-w-[1100px] mx-auto p-6'><div class='card p-6'><h1 class='text-3xl font-extrabold mb-2'>TradeGinger</h1><p>Buy & Sell locally.</p></div></main>}

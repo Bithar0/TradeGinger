@@ -1,0 +1,1 @@
+export default function AdminPage(){return <main className='max-w-[1100px] mx-auto p-6'>Admin Moderation</main>}

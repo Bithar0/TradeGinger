@@ -1,0 +1,1 @@
+export default function HelpPage(){return <main className='max-w-[1100px] mx-auto p-6'>Help</main>}

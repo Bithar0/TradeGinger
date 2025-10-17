@@ -1,0 +1,24 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[[edge_functions]]
+path = "/l/*"
+function = "listing"
+
+[[edge_functions]]
+path = "/u/*"
+function = "seller"
+
+[[edge_functions]]
+path = "/category/*"
+function = "category"
+
+[[edge_functions]]
+path = "/search"
+function = "search"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
